@@ -486,8 +486,8 @@
               "labels": [
                 {
                   "position": {
-                    "distance": 0.4698908747894696,
-                    "offset": 59.29022009480396
+                    "distance": 0.5531581594635383,
+                    "offset": 30.643783132793743
                   },
                   "attrs": {
                     "text": {
@@ -638,40 +638,6 @@
               "target": {
                 "id": "1e8fd4bf-1455-4120-b5a3-b3694311f2c5"
               },
-              "vertices": [],
-              "id": "cb99a9c2-7f79-4b04-b592-36965a22e5e3",
-              "labels": [
-                {
-                  "position": 0.5,
-                  "attrs": {
-                    "text": {
-                      "text": "flow 20",
-                      "font-weight": "400",
-                      "font-size": "small"
-                    }
-                  }
-                }
-              ],
-              "z": 22,
-              "hasOpenThreats": false,
-              "attrs": {
-                ".marker-target": {
-                  "class": "marker-target hasNoOpenThreats isInScope"
-                },
-                ".connection": {
-                  "class": "connection hasNoOpenThreats isInScope"
-                }
-              }
-            },
-            {
-              "type": "tm.Flow",
-              "smooth": true,
-              "source": {
-                "id": "cab26278-1ab3-445c-8d1d-eea252ea262a"
-              },
-              "target": {
-                "id": "1e8fd4bf-1455-4120-b5a3-b3694311f2c5"
-              },
               "vertices": [
                 {
                   "x": 757,
@@ -681,7 +647,10 @@
               "id": "a7a2fcd3-a238-4e7a-a2f5-d88650d67c69",
               "labels": [
                 {
-                  "position": 0.5,
+                  "position": {
+                    "distance": 0.464285821914575,
+                    "offset": 30.001806816434392
+                  },
                   "attrs": {
                     "text": {
                       "text": "flow 21",
