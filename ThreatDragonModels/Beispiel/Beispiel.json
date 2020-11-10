@@ -1,18 +1,13 @@
 {
   "summary": {
     "title": "Beispiel",
-    "owner": "bemesser",
-    "description": "DFD Beispiel"
+    "owner": "bemesser"
   },
   "detail": {
-    "contributors": [
-      {
-        "name": "bemesser"
-      }
-    ],
+    "contributors": [],
     "diagrams": [
       {
-        "title": "Beispiel",
+        "title": "Bewertungsserver",
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 0
       }
