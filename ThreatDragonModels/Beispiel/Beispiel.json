@@ -1,10 +1,21 @@
 {
   "summary": {
     "title": "Beispiel",
-    "owner": "bemesser"
+    "owner": "bemesser",
+    "description": "DFD Beispiel"
   },
   "detail": {
-    "contributors": [],
-    "diagrams": []
+    "contributors": [
+      {
+        "name": "bemesser"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Beispiel",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
   }
 }
